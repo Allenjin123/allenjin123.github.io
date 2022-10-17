@@ -26,11 +26,6 @@ Research experience
   * Prof. Jian Huang at UIUC
   * Implemented MAC and Merkle Tree essential for integrity and confidentiality.    
   * Utilized Out-of-place updates to improve performanceDuties included: Tagging issues
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 * Mixed Circuit Design of Binary & Stochastic Computing          Jan. 2022 – present
   * Prof. Weikang Qian at SJTU
