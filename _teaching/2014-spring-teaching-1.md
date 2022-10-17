@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant for Introduction to Language and Linguistics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Shanghai Jiao Tong University, UM-SJTU Joint Institute"
+date: 2021-05-01
+location: "Shanghai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Undergraduate-level courses taught by Prof. Kyung Min Kim.
