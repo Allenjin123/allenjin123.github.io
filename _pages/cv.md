@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng in Electrical and Computer Engineering, Shanghai Jiao Tong University, Sep. 2019 - present
 
-Work experience
+Coursework
+======
+GPA:3.81 Ranking: 14/255(Top 5%)
+
+Research experience
 ======
 * Summer 2015: Research Assistant
   * Github University
