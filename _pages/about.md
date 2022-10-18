@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University([SJTU](https://en.sjtu.edu.cn/)).
+I am currently an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University([SJTU](https://en.sjtu.edu.cn/)). My GPA is 3.81 with a ranking of 14/255. You may checked my [CV](https://allenjin123.github.io/files/HaoranJin_CV.pdf) for details.
 
 My research interest mainly lies in electronic design automation and computer architectures. More specially, I'm interested in new computing paradigm such as stochastic computing, agile EDA, High-Level-Synthesis and non-volatile memory.
 
