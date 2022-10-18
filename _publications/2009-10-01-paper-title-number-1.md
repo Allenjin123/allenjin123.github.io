@@ -6,11 +6,10 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2022-05-23
 venue: 'ICCAD'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Exploiting Uniform Spatial Distribution to Design Efficient Random Number Source for Stochastic Computing}  ICCAD 2022
+citation: 'Exploiting Uniform Spatial Distribution to Design Efficient Random Number Source for Stochastic Computing  ICCAD 2022
 '
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Exploiting Uniform Spatial Distribution to Design Efficient Random Number Source for Stochastic Computing}  ICCAD 2022
+Recommended citation: Kuncai Zhong, Zexi Li, Haoran Jin, Weikang Qian. *Exploiting Uniform Spatial Distribution to Design Efficient Random Number Source for Stochastic Computing*, ICCAD 2022
