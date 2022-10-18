@@ -14,4 +14,4 @@ My research interest mainly lies in electronic design automation and computer ar
 
 I am really fortunate to collaborate with [Prof. Huang Jian(UIUC)](http://jianh.web.engr.illinois.edu/), [Prof. Weikang Qian(SJTU)](https://umji.sjtu.edu.cn/~wkqian/people/weikang-qian.html) and [Prof. Jieru Zhao(SJTU)](https://zjru.github.io/)(in chronological order). Thanks a lot for the time and efforts of these distinguished scholars.
 
-I am applying for PhD programs, and I expect to graduate in Summer 2023. Please reach out to me if your are looking for PhD students.
+I am applying for PhD programs, and I expect to graduate in Summer 2023. Feel free to reach out to me at *allenjin@sjtu.edu.cn* if your are looking for PhD students.
