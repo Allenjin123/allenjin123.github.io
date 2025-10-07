@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University([SJTU](https://en.sjtu.edu.cn/)). My GPA is 3.81 with a ranking of 14/255. You may checked my [CV](https://allenjin123.github.io/files/HaoranJin_CV.pdf) for details.
+I am currently a PhD student in Computer Engineering at the University of Michigan, specializing in Computer Architecture and Electronic Design Automation (EDA). I am advised by Prof. Nathaniel Bleier, with previous mentorship from Prof. George Tzimpragos. You may check my [CV](https://allenjin123.github.io/files/HaoranJin_CV.pdf) for details.
 
-My research interest mainly lies in electronic design automation and computer architectures. More specially, I'm interested in new computing paradigm such as stochastic computing, agile EDA, High-Level-Synthesis and non-volatile memory.
+My research interests focus on computer architecture and electronic design automation, with particular emphasis on chiplet-based neural network accelerators, novel computing paradigms, and hardware optimization. I am currently working on ecosystem-accelerator codesign frameworks for composable, heterogeneous chiplet-based systems.
 
-I am really fortunate to collaborate with [Prof. Huang Jian(UIUC)](http://jianh.web.engr.illinois.edu/), [Prof. Weikang Qian(SJTU)](https://umji.sjtu.edu.cn/~wkqian/people/weikang-qian.html) and [Prof. Jieru Zhao(SJTU)](https://zjru.github.io/)(in chronological order). Thanks a lot for the time and efforts of these distinguished scholars.
+I completed my B.Eng in Electrical and Computer Engineering at Shanghai Jiao Tong University in August 2023. During my undergraduate studies, I was fortunate to collaborate with distinguished researchers including [Prof. Weikang Qian(SJTU)](https://umji.sjtu.edu.cn/~wkqian/people/weikang-qian.html) on stochastic computing and mixed circuits.
 
-I am applying for PhD programs, and I expect to graduate in Summer 2023. Feel free to reach out to me at *allenjin@sjtu.edu.cn* if your are looking for PhD students.
+Feel free to reach out to me at *allenjin@umich.edu* for research collaborations or discussions.

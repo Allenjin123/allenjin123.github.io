@@ -11,34 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.Eng in Electrical and Computer Engineering, Shanghai Jiao Tong University, Sep. 2019 - present
+* Ph.D in Computer Engineering, University of Michigan, Sep. 2023 - present
+  * Focus: Computer Architecture & EDA
+  * Advisor: Prof. Nathaniel Bleier & Previous Advisor: Prof. George Tzimpragos
+* B.Eng in Electrical and Computer Engineering, Shanghai Jiao Tong University, Sep. 2019 - Aug. 2023
 
-Coursework
+Honors and Awards
 ======
-GPA:3.81 Ranking: 14/255 (Top 5%)
-
-Logic Design($A^{+}$) Computer Organization($A$) Programming & Data Structure($A^{+}$)
+* 2020, 2021, 2022 National Encouragement Scholarship
+* 2019, 2020, 2021, 2022 John Wu & Jane Sun Sunshine Scholarship
+* 2020, 2021, 2022 SJTU Undergraduate Excellence Scholarship
 
 
 Research experience
 ======
-* Secure Non-volatile Memory Based on Out-of-place Update        *Jul. 2022 – present*
-  * Prof. Jian Huang at UIUC
-  * Implemented MAC and Merkle Tree essential for integrity and confidentiality.    
-  * Utilized Out-of-place updates to improve performanceDuties included: Tagging issues
-  
-* Mixed Circuit Design of Binary & Stochastic Computing          *Jan. 2022 – present*
-  * Prof. Weikang Qian at SJTU
-  * Implemented Tiled Gaussian Blur, Convolution and Sobel Operator in mixed circuit
-  * Accelerated estimation of error rate through table lookup
-  * Built Desgin Space Exploration to search for Pareto Solution regarding error rate and power
-  * Defined domain-specific language to facilitate mixed circuit developing
+* Mozart: An Ecosystem-Accelerator Codesign Framework        *Jan. 2025 – Aug. 2025*
+  * Prof. Nathaniel Bleier at University of Michigan
+  * Developed a chiplet ecosystem-accelerator codesign framework to increase chiplet reuse and reduce non-recurring engineering costs
+  * Built hierarchical design space exploration methodology to systematically compose heterogeneous chiplet-based bespoke ASIC leveraging operator-level disaggregation insights
+  * Implemented constraint-aware optimization for datacenter LLM serving and autonomous vehicle case studies
 
-* Machine Learning for High Level Synthesis       *Mar. 2021 – Oct. 2021*
-  * Prof. Jieru Zhao at SJTU
-  * Used Graph Neural Network to provide accurate and fast prediction of metrics
-  * Built a program that extracts features from HLS reports and intermediate files
-  * Planned to use Neural Architecture Search to get model parameter and transfer learning for big graph.
+* Minimum Area Retiming for xSFQ logic        *Aug. 2024 – Dec. 2024*
+  * Prof. George Tzimpragos at University of Michigan
+  * Developed a linear programming formulation to simultaneously minimize the number of registers and duplication logic in xSFQ circuits for optimal area reduction while maintaining clock period constraints
+
+* Mixed Circuit of Binary & Stochastic Computing          *Jan. 2022 – Sep. 2023*
+  * Prof. Weikang Qian at SJTU
+  * Defined a domain-specific language (DSL) for agile mixed circuit development
+  * Implemented a Verilog code generation backend for the DSL to facilitate hardware synthesis
+  * Evaluated mixed binary-stochastic circuits for image processing applications
 
 
 Project

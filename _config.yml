@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Haoran Jin"
   avatar           : "profile.png"
-  bio              : "Senior at Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "PhD Student in Computer Engineering at University of Michigan"
+  location         : "Ann Arbor, MI"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "allenjin@sjtu.edu.cn"
+  email            : "allenjin@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
