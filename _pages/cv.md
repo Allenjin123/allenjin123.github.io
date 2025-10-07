@@ -1,79 +1,55 @@
 ---
-layout: archive
-title: ""
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<div style="text-align: center; margin: 2rem 0;">
+  <h2>Haoran Jin - Curriculum Vitae</h2>
 
-Education
-======
-* Ph.D in Computer Engineering, University of Michigan, Sep. 2023 - present
-  * Focus: Computer Architecture & EDA
-  * Advisor: Prof. Nathaniel Bleier & Previous Advisor: Prof. George Tzimpragos
-* B.Eng in Electrical and Computer Engineering, Shanghai Jiao Tong University, Sep. 2019 - Aug. 2023
+  <div style="margin: 1.5rem 0;">
+    <a href="/files/HaoranJin_CV.pdf" target="_blank" style="display: inline-block; background-color: #007cba; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; margin: 0 10px; font-weight: bold;">
+      📄 View PDF
+    </a>
+    <a href="/files/HaoranJin_CV.pdf" download="HaoranJin_CV.pdf" style="display: inline-block; background-color: #28a745; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; margin: 0 10px; font-weight: bold;">
+      ⬇️ Download PDF
+    </a>
+  </div>
+</div>
 
-Honors and Awards
-======
-* 2020, 2021, 2022 National Encouragement Scholarship
-* 2019, 2020, 2021, 2022 John Wu & Jane Sun Sunshine Scholarship
-* 2020, 2021, 2022 SJTU Undergraduate Excellence Scholarship
+<!-- Embedded PDF Viewer -->
+<div style="width: 100%; height: 800px; border: 1px solid #ddd; margin: 2rem 0;">
+  <iframe src="/files/HaoranJin_CV.pdf" width="100%" height="100%" style="border: none;">
+    <p>Your browser does not support PDFs. <a href="/files/HaoranJin_CV.pdf">Download the PDF</a>.</p>
+  </iframe>
+</div>
 
+<!-- Alternative text-based CV for SEO and accessibility -->
+<div style="margin-top: 3rem; padding-top: 2rem; border-top: 2px solid #eee;">
+  <h3>CV Summary (Text Version)</h3>
 
-Research experience
-======
-* Mozart: An Ecosystem-Accelerator Codesign Framework        *Jan. 2025 – Aug. 2025*
-  * Prof. Nathaniel Bleier at University of Michigan
-  * Developed a chiplet ecosystem-accelerator codesign framework to increase chiplet reuse and reduce non-recurring engineering costs
-  * Built hierarchical design space exploration methodology to systematically compose heterogeneous chiplet-based bespoke ASIC leveraging operator-level disaggregation insights
-  * Implemented constraint-aware optimization for datacenter LLM serving and autonomous vehicle case studies
+  <h4>Education</h4>
+  <ul>
+    <li><strong>Ph.D in Computer Engineering</strong>, University of Michigan, Sep. 2023 - present
+      <ul>
+        <li>Focus: Computer Architecture & EDA</li>
+        <li>Advisor: Prof. Nathaniel Bleier & Previous Advisor: Prof. George Tzimpragos</li>
+      </ul>
+    </li>
+    <li><strong>B.Eng in Electrical and Computer Engineering</strong>, Shanghai Jiao Tong University, Sep. 2019 - Aug. 2023</li>
+  </ul>
 
-* Minimum Area Retiming for xSFQ logic        *Aug. 2024 – Dec. 2024*
-  * Prof. George Tzimpragos at University of Michigan
-  * Developed a linear programming formulation to simultaneously minimize the number of registers and duplication logic in xSFQ circuits for optimal area reduction while maintaining clock period constraints
-
-* Mixed Circuit of Binary & Stochastic Computing          *Jan. 2022 – Sep. 2023*
-  * Prof. Weikang Qian at SJTU
-  * Defined a domain-specific language (DSL) for agile mixed circuit development
-  * Implemented a Verilog code generation backend for the DSL to facilitate hardware synthesis
-  * Evaluated mixed binary-stochastic circuits for image processing applications
-
-
-Project
-=====
-* Recommendation System for Big Data
-  * Implemented Breadth-First-Search on 4 node Hadoop cluster using Spark and MapReduce.
-
-* Multi-threaded SQL Database
-  * Wrote a multi-threaded database supporting SQL-like syntax
-  * Implemented thread pool and parallel reducer for acceleration
-
-
-* Scheduling Algorithm in Minix 3.2.1
-  *Implemented Earliest Deadline First and Lottery Algorithm in the kernel space
-
-
-Skills
-======
-* Programing: C, C++, Java, Python, Verilog HDL, SQL, LLVM IR, ELM 
-* Tools: MatLab, PyTorch, Mathematica, Vitis HLS, Spark, Drill, MapReduce, Hadoop, Pin, Pintool, Pspice
-* Language: TOEFL:107 GRE: 322 + 4.0
-
-Publications
-======
+  <h4>Selected Publications</h4>
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
 
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <p style="margin-top: 2rem; text-align: center; color: #666; font-style: italic;">
+    For complete details, please view or download the PDF version above.
+  </p>
+</div>
   
 
