@@ -15,17 +15,14 @@ Developed a chiplet ecosystem-accelerator codesign framework to increase chiplet
 <!-- Add your project images here -->
 <!-- Example: System Architecture Diagram -->
 
-<div style="margin: 20px 0;">
+<!-- <div style="margin: 20px 0;">
   <h4>📄 Motivation </h4>
   <iframe src="/images/teaser.pdf" width="100%" height="400px" style="border: 1px solid #ddd;">
     <p>Your browser does not support PDFs. <a href="/images/teaser.pdf">Download the PDF</a>.</p>
   </iframe>
-</div>
+</div> -->
 
-<div style="text-align: center; margin: 20px 0;">
-  <img src="/images/co-design-framework.png" alt="Mozart Framework Architecture" style="max-width: 100%; height: auto;">
-  <p><em>Mozart Codesign Framework Architecture</em></p>
-</div>
+
 
 
 <!-- Example: Results or Performance Charts -->
@@ -48,4 +45,9 @@ Developed a chiplet ecosystem-accelerator codesign framework to increase chiplet
 - Implemented constraint-aware optimization for datacenter LLM serving and autonomous vehicle case studies
 
 ### Status
-Currently under submission to ASPLOS 2025. 
+Currently under submission to ASPLOS 2026. 
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/images/co-design-framework.png" alt="Mozart Framework Architecture" style="max-width: 100%; height: auto;">
+  <p><em>Mozart Codesign Framework Architecture</em></p>
+</div>
