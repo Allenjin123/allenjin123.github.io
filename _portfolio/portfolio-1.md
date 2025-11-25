@@ -4,8 +4,6 @@ excerpt: "A novel framework for designing composable, heterogeneous chiplet-base
 collection: portfolio
 ---
 
-## Mozart: An Ecosystem-Accelerator Codesign Framework
-
 **Duration:** Jan. 2025 – Aug. 2025
 **Advisor:** Prof. Nathaniel Bleier at University of Michigan
 

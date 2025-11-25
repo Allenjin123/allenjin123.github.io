@@ -4,8 +4,6 @@ excerpt: "Scalable recommendation system implementation using Hadoop cluster wit
 collection: portfolio
 ---
 
-## Recommendation System for Big Data
-
 **Academic Project**
 
 ### Overview

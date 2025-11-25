@@ -4,8 +4,6 @@ excerpt: "Linear programming formulation for simultaneous register and duplicati
 collection: portfolio
 ---
 
-## Minimum Area Retiming for xSFQ Logic
-
 **Duration:** Aug. 2024 – Dec. 2024
 **Advisor:** Prof. George Tzimpragos at University of Michigan
 

@@ -4,8 +4,6 @@ excerpt: "Custom database implementation with SQL-like syntax supporting multi-t
 collection: portfolio
 ---
 
-## Multi-threaded SQL Database
-
 **Academic Project**
 
 ### Overview

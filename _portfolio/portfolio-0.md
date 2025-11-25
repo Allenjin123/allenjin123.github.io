@@ -4,8 +4,6 @@ excerpt: "A hardware-software co-optimization framework for efficient ASIP desig
 collection: portfolio
 ---
 
-## AESIP: Arch-aware ASIP-ISA Co-Design via Program Synthesis, Equality Saturation, and External Don't Cares
-
 **Duration:** Jul. 2025 – Nov. 2025
 **Advisor:** Prof. Nathaniel Bleier at University of Michigan
 

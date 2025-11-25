@@ -4,8 +4,6 @@ excerpt: "Domain-specific language and code generation framework for agile devel
 collection: portfolio
 ---
 
-## Mixed Circuit of Binary & Stochastic Computing
-
 **Duration:** Jan. 2022 – Sep. 2023
 **Advisor:** Prof. Weikang Qian at SJTU
 

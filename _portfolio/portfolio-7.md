@@ -4,8 +4,6 @@ excerpt: "Kernel-level implementation of advanced scheduling algorithms includin
 collection: portfolio
 ---
 
-## Scheduling Algorithm in Minix 3.2.1
-
 **Academic Project**
 
 ### Overview

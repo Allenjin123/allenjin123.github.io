@@ -4,8 +4,6 @@ excerpt: "Graph Neural Network-based approach for accurate and fast prediction o
 collection: portfolio
 ---
 
-## Machine Learning for High Level Synthesis
-
 **Duration:** Mar. 2021 – Oct. 2021
 **Advisor:** Prof. Jieru Zhao at SJTU
 
