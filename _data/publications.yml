@@ -1,0 +1,45 @@
+main:
+
+  - title: "Precision As You Need: Stochastic Computing Is a Dense Adaptive Quantizer"
+    authors: "<strong>Haoran Jin*</strong>, Kangqi Zhang*, Jirong Yang, Barry Lyu, Qiuyi Ding, Ruijie Gao, Nathaniel Bleier"
+    conference_short: "NeurIPS"
+    conference: "Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026."
+    notes: "Under Review"
+
+  - title: "Agents' Last Exam"
+    authors: "Yiyou Sun, Xinyang Han, ..., <strong>Haoran Jin</strong>, et al."
+    conference_short: "arXiv"
+    conference: "arXiv preprint, 2026."
+
+  - title: "TensorLift: Automatic Extraction of Tensor-Level ISA Semantics from Accelerator RTL via MLIR Semantic Lifting"
+    authors: "Ruijie Gao, <strong>Haoran Jin</strong>, Jirong Yang, Nathaniel Bleier"
+    conference_short: "ICCAD"
+    conference: "IEEE/ACM International Conference on Computer-Aided Design <strong>(ICCAD)</strong>, 2026."
+
+  - title: "Fengshui: Demystifying Chiplet Ecosystem and Bespoke Neural Network Accelerator Codesign"
+    authors: "<strong>Haoran Jin</strong>, Jirong Yang, Zhiheng Zhang, Justin Shin, Barry Lyu, Kangqi Zhang, Yunpeng Liu, Nathaniel Bleier"
+    conference_short: "MICRO"
+    conference: "IEEE/ACM International Symposium on Microarchitecture <strong>(MICRO)</strong>, 2026."
+    image: "/images/co-design-framework.png"
+
+  - title: "æSIP: µArch-aware ASIP-ISA Co-Design via Program Synthesis, Equality Saturation, and External Don't Cares"
+    authors: "<strong>Haoran Jin*</strong>, Jirong Yang*, Barry Lyu, Ruijie Gao, Nathaniel Bleier"
+    conference_short: "ISCA"
+    conference: "IEEE/ACM International Symposium on Computer Architecture <strong>(ISCA)</strong>, 2026."
+    image: "/images/aesip.png"
+
+  - title: "Duplication-Aware Retiming and Cell Interface Redesign for Superconductor Circuit Minimization"
+    authors: "Panagiotis Papanikolaou, Alex Vanasse, <strong>Haoran Jin</strong>, Georgios Tzimpragos, Jennifer Volk"
+    conference_short: "DAC"
+    conference: "ACM/IEEE Design Automation Conference <strong>(DAC)</strong>, 2026."
+
+  - title: "SCGen: A Versatile Generator Framework for Agile Development of Stochastic Circuits"
+    authors: "Zexi Li*, <strong>Haoran Jin*</strong>, Kuncai Zhong, Guojie Luo, Runsheng Wang, Weikang Qian"
+    conference_short: "DATE"
+    conference: "Design, Automation and Test in Europe Conference <strong>(DATE)</strong>, 2024."
+
+  - title: "Exploiting Uniform Spatial Distribution to Design Efficient Random Number Source for Stochastic Computing"
+    authors: "Kuncai Zhong, Zexi Li, <strong>Haoran Jin</strong>, Weikang Qian"
+    conference_short: "ICCAD"
+    conference: "IEEE/ACM International Conference on Computer-Aided Design <strong>(ICCAD)</strong>, 2022."
+    pdf: "https://ieeexplore.ieee.org/document/10069467"
