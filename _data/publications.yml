@@ -33,6 +33,7 @@ main:
     conference_short: "ISCA"
     conference: "IEEE/ACM International Symposium on Computer Architecture <strong>(ISCA)</strong>, 2026."
     image: "/images/aesip.png"
+    pdf: "https://crucible.eecs.umich.edu/data/papers/paper-24-%C3%A6sip-%CE%BCarch-aware-asip-isa-co-design-via-program-s.pdf"
 
   - title: "Duplication-Aware Retiming and Cell Interface Redesign for Superconductor Circuit Minimization"
     authors: "Panagiotis Papanikolaou, Alex Vanasse, <strong>Haoran Jin</strong>, Georgios Tzimpragos, Jennifer Volk"
