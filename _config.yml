@@ -35,8 +35,8 @@ auto_dark_mode: true
 # Font: "Serif" or "Sans Serif"
 font: "Serif"
 
-# Google Analytics ID (add your own if desired)
-# google_analytics: UA-XXXXXXXX-X
+# Google Analytics 4 Measurement ID (looks like G-XXXXXXXXXX)
+google_analytics: G-HKD4WWEPNK
 
 # Plugins
 plugins:
